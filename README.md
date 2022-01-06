@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dharmesh Rajendra Sonar</h1>
+<h1 align="center">Hi 👋, I'm Yogesh Sambare</h1>
 <h3 align="center">I'm a Enthusiastic Full Web Stack Developer.</h3>
 
 
