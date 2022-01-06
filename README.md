@@ -1,35 +1,71 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <h1 align="center">Hi 👋, I'm Yogesh Sambare</h1>
 <h3 align="center">A Enthusiastic Full Web Stack Developer.</h3>
+<h3 align="center">I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.</h3>
 
+<p align= "center">
 
-## 🙋‍♂️ About Me
-
-
-- 🌱 I’m currently learning **MERN Stack And DSA.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](link)**
-
-- 📫 How to reach me **Yogeshsambare010@gmail.com**
-
-## 🚀 Languages and Tools:
-
-<!-- <p align="center"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/express.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"><img src="https://img.icons8.com/material-outlined/48/000000/json.png"/></a>
+<img src="https://img.shields.io/badge/JS-Javascript-red"/>
+<img src="https://img.shields.io/badge/React-React-blue"/>
+<img src="https://img.shields.io/badge/Node-node-green"/>
+<img src="https://img.shields.io/badge/express-Express-blueviolet"/>
+<img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<div align="center">
+  <img src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif" width="90%"src="" alt="animatation" />
+</div>
 
+
+<div align="center">
+   <p> 🌱 I'm currently learning MERN Stack Development</p>
+   <p> 💬 Ask me about React, JavaScript, Redux , DS-Algo</p>
+   <p> 📫 How to reach me bhandarisumit049@gmail.com</p>
+  <p>🥅 2021 Goals : Learning new things and contribute more</p>
+</div>
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sumit-kumar-bhandari.vercel.app/)
+
+## 🔗 Connect with me:
+<span align="left">
+  <a href="https://www.linkedin.com/in/sumit-kumar-bhandari/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="samy721"/></a>
+      <a href="mailto:bhandarisumit049@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
+      </a>
+    <p>Call Me: +91-8839307790</p>
+</span>
+
+## ❤ Views and Followers
+<a href="https://github.com/samy721/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=samy721">
+</a>
+<a href="https://github.com/samy721?tab=followers"><img src="https://img.shields.io/github/followers/samy7217?label=Followers&style=social" alt="GitHub Badge"></a>
+
+ ## 🚀 Languages and Tools:
+<p > <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+
+
+<div align="left">
+  <p>
+    <img  src="https://github-readme-stats.vercel.app/api?username=samy721&theme=synthwave" alt="samy721" width="420px" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=samy721&theme=synthwave" alt="samy721" width="420px"/>
+  </p>
+
+</div>
+ 
+ 
+<div align="center">
+<a href="https://github.com/samy721/github-readme-activity-graph"><img alt="samy721's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=samy721&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</div>
+  
+<div align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samy721&theme=synthwave" alt="samy721" />
+</div>
+
+</body>
+</html>
