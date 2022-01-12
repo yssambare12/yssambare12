@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-  <img src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif" width="90%"src="" alt="animatation" />
+<p align="center"><a href="#"><img style="margin-left:25%" width="50%" align="center" height="auto" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" height="175px"/></a></p>
 </div>
 
 
