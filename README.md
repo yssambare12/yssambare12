@@ -49,23 +49,18 @@
 <p > <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
+ <br/>
+    <a href="https://github.com/Aakash-Naykude/github-readme-stats"><img alt="Aakash Naykude's Github Stats" style="width:54%" src="https://github-readme-stats.vercel.app/api?username=Aakash-Naykude&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Aakash-Naykude/github-readme-stats"><img alt="Aakash Naykude's Top Languages" style="width:45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Naykude&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
-<div align="left">
-  <p>
-    <img  src="https://github-readme-stats.vercel.app/api?username=samy721&theme=synthwave" alt="yssambare12" width="420px" />
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=samy721&theme=synthwave" alt="yssambare12" width="420px"/>
-  </p>
+<br/>
+<br/>
 
-</div>
- 
- 
-<div align="center">
-<a href="https://github.com/yssambare12/github-readme-activity-graph"><img alt="ssambare12's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yssambare12&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</div>
-  
-<div align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yssambare12&theme=synthwave" alt="yssambare12" />
-</div>
+<a href="https://github.com/Aakash-Naykude/github-readme-activity-graph"><img alt="Aakash Naykude's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aakash-Naykude&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aakash-Naykude)](https://github.com/ryo-ma/github-profile-trophy)
 
 </body>
 </html>
