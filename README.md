@@ -50,7 +50,7 @@
 
 
  <br/>
-    <a href="https://github.com/yssambare12/github-readme-stats"><img alt="Yogesh Sambare's Github Stats" style="width:54%" src="https://github-readme-stats.vercel.app/api?username=yssambare12&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a align="center" href="https://github.com/yssambare12/github-readme-stats"><img alt="Yogesh Sambare's Github Stats" style="width:54%" src="https://github-readme-stats.vercel.app/api?username=yssambare12&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/yssambare12/github-readme-stats"><img alt="Yogesh Sambare's Top Languages" style="width:45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yssambare12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
