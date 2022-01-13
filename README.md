@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Yogesh Sambare</h1>
 <h3 align="center">A Enthusiastic Full Web Stack Developer.</h3>
-<h3 align="center">I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.</h3>
+<p align="center">I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.</p>
 
 <p align= "center">
 
