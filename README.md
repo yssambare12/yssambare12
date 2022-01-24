@@ -22,7 +22,8 @@
 
 <div align="center">
    <p> 🌱 I'm currently learning MERN Stack Development</p>
-   <p> 💬 Ask me about React, JavaScript, Redux , DS-Algo</p>
+   <p> 💬 Ask me about React, JavaScript, Redux , DS-Algo,NextJs</p>
+   <p> 💻 Currently Working on Linkedin Clone </p>
    <p> 📫 How to reach me yogeshsambare010@gmail.com</p>
   <p>🥅 2022 Goals : Learning new things and contribute more</p>
 </div>
