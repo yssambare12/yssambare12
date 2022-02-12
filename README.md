@@ -32,7 +32,7 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yogeshsambare.com/)
 
 ## 🔗 Connect with me:
-<span align="right">
+<span align="left">
   <a href="https://www.linkedin.com/in/yogesh-sambare/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yogeshsambare"/></a>
       <a href="mailto:yogeshsambare010@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
