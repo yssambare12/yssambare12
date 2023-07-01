@@ -25,11 +25,11 @@ Collaboration, decision-making, and a solid understanding of Data Structures & A
 
 
 <div align="center">
-   <p> 🌱 I'm currently learning MERN Stack Development</p>
-   <p> 💬 Ask me about React, JavaScript, Redux , DS-Algo,NextJs</p>
-   <p> 💻 Currently Working Different Projects </p>
+   <p> 🌱 I am currently dedicated to achieving mastery in React, aiming to become a go-to resource for high-quality React development. </p>
+   <p> 💬 Ask me about React, WordPress, PHP, JavaScript, Redux, DS-Algo, and NextJs</p>
+   <p> 💻 Currently Working Different Astra Theme and some other projects </p>
    <p> 📫 How to reach me yogeshsambare010@gmail.com</p>
-  <p>🥅 2022 Goals : Learning new things and contribute more</p>
+  <p>🥅 2023 Goals: Learning new things and contributing more</p>
 </div>
 
 ## 🔗 Links
