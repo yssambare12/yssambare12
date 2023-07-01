@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Yogesh Sambare</h1>
 <h3 align="center">A Enthusiastic Full Web Stack Developer.</h3>
-<p align="center">Hello! I'm a Full Stack Web Developer specializing in WordPress-related products at Brainstorm Force. With a strong background in custom plugin and theme development, I am currently a key member of one of the most popular WordPress theme development teams. 
+<p align="center">Hello! I'm a Full Stack Web Developer specializing in WordPress-related products at Brainstorm Force. With a good background in custom plugin and theme development, I am currently a key member of one of the most popular WordPress theme Astra development teams. 
 
-My expertise extends to a range of technologies including React, PHP, JavaScript, and I am currently focusing on mastering React. I pride myself on my ability to design and develop clean, elegant, and efficient code that meets the needs of the project. 
+My expertise extends to a range of technologies including React, PHP, and JavaScript, and I am currently focusing on mastering React. I pride myself on my ability to design and develop clean, elegant, and efficient code that meets the needs of the project. 
 
 Collaboration, decision-making, and a solid understanding of Data Structures & Algorithms are some of the core skills I bring to the table. I am constantly learning, unlearning, and relearning to stay ahead in the ever-evolving field of web development.</p>
 
