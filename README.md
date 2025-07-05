@@ -33,7 +33,7 @@ I enjoy crafting custom plugins, themes, and performance-driven UI experiences. 
 - 🌱 Currently diving deep into **Advanced React** and performance patterns
 - 💬 Ask me about WordPress, React, PHP, JavaScript, Redux, Next.js, or DS-Algo
 - 📬 Reach me at: [yogeshsambare010@gmail.com](mailto:yogeshsambare010@gmail.com)
-- 🎯 2024 Goals: Contribute more, learn consistently, and build impactful tools
+- 🎯 2025 Goals: Contribute more, learn consistently, Improve DSA skills and build impactful tools.
 
 ---
 
