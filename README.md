@@ -4,7 +4,7 @@
 
 ---
 
-💡 I'm a passionate Full Stack Developer with **3+ years of experience** in building powerful WordPress products. Currently, I’m part of the team behind the [**Astra theme**](https://wpastra.com/), used by **2M+ active users worldwide**.
+💡 I'm a passionate Full Stack Developer with **4+ years of experience** in building powerful WordPress products. Currently, I’m part of the team behind the [**Astra theme**](https://wpastra.com/), used by **2M+ active users worldwide**.
 
 I enjoy crafting custom plugins, themes, and performance-driven UI experiences. My focus is on **React**, modern JavaScript, and scalable architecture in WordPress ecosystems.
 
