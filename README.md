@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yogesh Sambare
 
-### 🚀 Full Stack Web Developer | WordPress Specialist | React Enthusiast
+### 🚀 Full Stack Web Developer | React Enthusiast
 
 ---
 
