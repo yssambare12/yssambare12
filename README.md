@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yogesh Sambare
 
-### 🚀 Full Stack Web Developer | React Enthusiast
+### 🚀 Full Stack Web Developer | React | NodeJs | AI ML Enthusiast
 
 -----
 
