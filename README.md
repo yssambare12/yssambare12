@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yogesh Sambare  
 
-### 🚀 MERN Stack Developer | AI-Driven Full Stack Engineer.
+### 🚀 MERN Stack Developer | AI-Driven Full Stack Engineer..
 
 ---
 
